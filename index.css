@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav {
+    background-color: rgb(204, 18, 18);
+    display: flex;
+    font-weight: bold;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content:center;
+    align-items: center;
+    height: 5vh;
+    border-bottom: 1px solid white;
+}
+.mainbody {
+    background-color: hsl(117.66deg 18.49% 22.54%);
+    font-family: Arial, sans-serif;
+    width: 100vw;
+    color: white;
+    height: 92vh;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
